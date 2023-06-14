@@ -91,6 +91,8 @@ namespace Practica_2
         //Вызов чтения данных из файла при запуске программы
         private void Form1_Load(object sender, EventArgs e)
         {
+            this.MaximumSize = this.Size;
+            this.MinimumSize = this.Size;
             RefreshDataGrid();
         }
 

@@ -202,7 +202,7 @@ namespace Practica_2
             // 
             // BttnDrawChart
             // 
-            this.BttnDrawChart.Location = new System.Drawing.Point(633, 504);
+            this.BttnDrawChart.Location = new System.Drawing.Point(773, 487);
             this.BttnDrawChart.Name = "BttnDrawChart";
             this.BttnDrawChart.Size = new System.Drawing.Size(134, 47);
             this.BttnDrawChart.TabIndex = 11;
